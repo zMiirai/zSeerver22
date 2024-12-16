@@ -5,9 +5,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-16 21:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:grove": "2024-12-16 21:42:11 +0000"
+      "minecraft:frozen_river": "2024-12-16 21:47:11 +0000",
+      "minecraft:grove": "2024-12-16 21:42:11 +0000",
+      "minecraft:snowy_taiga": "2024-12-16 21:47:06 +0000"
     },
     "done": false
   },
