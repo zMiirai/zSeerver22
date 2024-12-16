@@ -1,0 +1,53 @@
+[21:35:12] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[21:35:12] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.9
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.3
+[21:35:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/zSeerver22/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:35:17] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:35:18] [main/INFO]: No existing world data, creating new world
+[21:35:19] [main/INFO]: Loaded 1337 recipes
+[21:35:19] [main/INFO]: Loaded 1448 advancements
+[21:35:19] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[21:35:19] [Server thread/INFO]: Loading properties
+[21:35:19] [Server thread/INFO]: Default game type: SURVIVAL
+[21:35:19] [Server thread/INFO]: Generating keypair
+[21:35:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:35:19] [Server thread/INFO]: Using epoll channel type
+[21:35:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:35:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:35:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:35:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:35:19] [Server thread/INFO]: Preparing level "world"
+[21:35:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:35:25] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[21:35:26] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:35:26] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:35:27] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:35:28] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[21:35:28] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[21:35:28] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[21:35:29] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[21:35:29] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[21:35:30] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[21:35:30] [Server thread/INFO]: Time elapsed: 4952 ms
+[21:35:30] [Server thread/INFO]: Done (11.135s)! For help, type "help"
+[21:36:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:38:30] [Server thread/INFO]: zMiirai[/127.135.15.164:36363] logged in with entity id 45 at (9.5, 98.0, -9.5)
+[21:38:30] [Server thread/INFO]: zMiirai joined the game
+[21:39:32] [Server thread/INFO]: sampek9k[/127.115.200.198:52975] logged in with entity id 496 at (4.5, 91.0, -15.5)
+[21:39:32] [Server thread/INFO]: sampek9k joined the game
+[21:39:49] [Server thread/INFO]: [Not Secure] <zMiirai> click
+[21:41:54] [Server thread/INFO]: sampek9k froze to death
+[21:42:10] [Server thread/INFO]: kkk[/127.134.96.74:37875] logged in with entity id 944 at (6.5, 91.0, -14.5)
+[21:42:10] [Server thread/INFO]: kkk joined the game
+[21:42:42] [Server thread/INFO]: [Not Secure] <zMiirai> doble click
+[21:42:56] [Server thread/INFO]: [Not Secure] <zMiirai> problemas de nopremium
+[21:43:22] [Server thread/INFO]: sampek9k was slain by zMiirai
+[21:43:31] [Server thread/INFO]: kkk was slain by zMiirai
+[21:43:49] [Server thread/INFO]: zMiirai hit the ground too hard while trying to escape sampek9k
+[21:43:52] [Server thread/INFO]: [Not Secure] <zMiirai> ASJJASSJ
+[21:44:42] [Server thread/INFO]: [Not Secure] <zMiirai> CTRL
+[21:45:08] [Server thread/INFO]: [Not Secure] <zMiirai> MMM
+[21:45:13] [Server thread/INFO]: [Not Secure] <zMiirai> y si lo personaliza?
